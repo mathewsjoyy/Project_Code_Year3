@@ -1,8 +1,16 @@
 {
     "cSpell.words": [
+        "chebyshev",
+        "crossentropy",
         "droping",
+        "dtype",
         "iloc",
+        "kfold",
+        "logspace",
+        "minkowski",
+        "relu",
         "sklearn",
+        "softmax",
         "xpath"
     ]
 }
