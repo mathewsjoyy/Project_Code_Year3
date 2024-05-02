@@ -1,9 +1,11 @@
 {
     "cSpell.words": [
+        "barplot",
         "chebyshev",
         "crossentropy",
         "droping",
         "dtype",
+        "figsize",
         "iloc",
         "kfold",
         "logspace",
